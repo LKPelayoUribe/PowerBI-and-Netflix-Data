@@ -11,7 +11,7 @@ This dataset is a cleaned version of the original version which can be found [he
 
 ## Top 10 directors on Netflix
 
-<img src="">
+<img src="https://raw.githubusercontent.com/LKPelayoUribe/PowerBI-and-Netflix-Data/main/Directors%20and%20their%20contents%20on%20Netflix.PNG">
 
 ## Top 10 Genres on Netflix
 
