@@ -7,11 +7,11 @@ This dataset is a cleaned version of the original version which can be found [he
 
 ## Movies Vs. TV Shows By Country
 
-<img src="https://raw.githubusercontent.com/LKPelayoUribe/PowerBI-and-Netflix-Data/main/Movies_Vs_TV_Shows_ByCountry.PNG">
+<img src="">
 
 ## Top 10 directors on Netflix
 
-<img src="https://raw.githubusercontent.com/LKPelayoUribe/PowerBI-and-Netflix-Data/main/Directors%20and%20their%20contents%20on%20Netflix.PNG">
+<img src="">
 
 ## Top 10 Genres on Netflix
 
